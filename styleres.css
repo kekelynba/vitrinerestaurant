@@ -1,0 +1,34 @@
+h1{
+    
+    text-align: center;
+}
+
+
+ul{
+    display: flex;
+    justify-content: space-around;
+    list-style: none;
+}
+ul :hover{
+    display: flex;
+    
+}
+ body{
+    background-image: url(Restaurant.jpeg);
+ }
+
+.hour{
+    display: flex;
+    justify-content: center;
+    
+}
+fieldset{
+    margin: 5% 5% 5%;
+    padding-top: 20%;
+
+}
+.reservation{
+    text-align: center;
+    
+    
+}
