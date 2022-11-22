@@ -1,7 +1,12 @@
 ul{
     display: flex;
     justify-content: space-around;
-    background-color: white;
+    
 }
-
+ul :hover{
+    
+}
+ body{
+    background-image: url(Restaurant.jpeg);
+ }
 
